@@ -1,0 +1,11 @@
+C:\Users\vlads\OneDrive\Рабочий стол\Practic\DesignPatterns\FactoryMethod\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.csprojAssemblyReference.cache
+C:\Users\vlads\OneDrive\Рабочий стол\Practic\DesignPatterns\FactoryMethod\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.AssemblyInfoInputs.cache
+C:\Users\vlads\OneDrive\Рабочий стол\Practic\DesignPatterns\FactoryMethod\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.AssemblyInfo.cs
+C:\Users\vlads\OneDrive\Рабочий стол\Practic\DesignPatterns\FactoryMethod\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.exe
+C:\Users\vlads\OneDrive\Рабочий стол\Practic\DesignPatterns\FactoryMethod\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.deps.json
+C:\Users\vlads\OneDrive\Рабочий стол\Practic\DesignPatterns\FactoryMethod\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.runtimeconfig.json
+C:\Users\vlads\OneDrive\Рабочий стол\Practic\DesignPatterns\FactoryMethod\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.runtimeconfig.dev.json
+C:\Users\vlads\OneDrive\Рабочий стол\Practic\DesignPatterns\FactoryMethod\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.dll
+C:\Users\vlads\OneDrive\Рабочий стол\Practic\DesignPatterns\FactoryMethod\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.pdb
+C:\Users\vlads\OneDrive\Рабочий стол\Practic\DesignPatterns\FactoryMethod\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.dll
+C:\Users\vlads\OneDrive\Рабочий стол\Practic\DesignPatterns\FactoryMethod\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.pdb
