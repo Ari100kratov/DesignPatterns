@@ -1,0 +1,11 @@
+C:\Users\vlads\OneDrive\Рабочий стол\Practic\PatternBuilder\PatternBuilder\bin\Debug\netcoreapp3.1\PatternBuilder.exe
+C:\Users\vlads\OneDrive\Рабочий стол\Practic\PatternBuilder\PatternBuilder\bin\Debug\netcoreapp3.1\PatternBuilder.deps.json
+C:\Users\vlads\OneDrive\Рабочий стол\Practic\PatternBuilder\PatternBuilder\bin\Debug\netcoreapp3.1\PatternBuilder.runtimeconfig.json
+C:\Users\vlads\OneDrive\Рабочий стол\Practic\PatternBuilder\PatternBuilder\bin\Debug\netcoreapp3.1\PatternBuilder.runtimeconfig.dev.json
+C:\Users\vlads\OneDrive\Рабочий стол\Practic\PatternBuilder\PatternBuilder\bin\Debug\netcoreapp3.1\PatternBuilder.dll
+C:\Users\vlads\OneDrive\Рабочий стол\Practic\PatternBuilder\PatternBuilder\bin\Debug\netcoreapp3.1\PatternBuilder.pdb
+C:\Users\vlads\OneDrive\Рабочий стол\Practic\PatternBuilder\PatternBuilder\obj\Debug\netcoreapp3.1\PatternBuilder.csprojAssemblyReference.cache
+C:\Users\vlads\OneDrive\Рабочий стол\Practic\PatternBuilder\PatternBuilder\obj\Debug\netcoreapp3.1\PatternBuilder.AssemblyInfoInputs.cache
+C:\Users\vlads\OneDrive\Рабочий стол\Practic\PatternBuilder\PatternBuilder\obj\Debug\netcoreapp3.1\PatternBuilder.AssemblyInfo.cs
+C:\Users\vlads\OneDrive\Рабочий стол\Practic\PatternBuilder\PatternBuilder\obj\Debug\netcoreapp3.1\PatternBuilder.dll
+C:\Users\vlads\OneDrive\Рабочий стол\Practic\PatternBuilder\PatternBuilder\obj\Debug\netcoreapp3.1\PatternBuilder.pdb
